@@ -15,7 +15,7 @@ body {
   background-image: url("https://t4.ftcdn.net/jpg/03/17/72/95/360_F_317729552_gDp09RsdcncBa66AQOq9M7rqkakWuBpR.jpg");
   background-size: 500px;
   background-position: center center;
-  padding: 80px 100px;
+  padding: 100px 100px;
 /*  min-width: 800px; */
   
   transform: rotateZ(-5deg);
@@ -33,15 +33,15 @@ body {
 }
 
 .paper.image {
-  padding: 10px;
+  padding: 40px;
 }
 .paper.image p {
   font-size: 30px;
 }
 
 img {
-  max-height: 300px;
-  width: 100%;
+  max-height: 500px;
+  width: 110%;
   user-select: none;
 }
 
@@ -60,7 +60,7 @@ img {
 }
 
 p {
-  font-family: 'Zeyada';
+  font-family: 'Comic Sans MS';
   font-size: 70px;
   color: rgb(242, 230, 230);
   opacity: 0.75;
