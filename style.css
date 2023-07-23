@@ -7,7 +7,7 @@ body {
   justify-content: center;
 
   background-size: 1000px;
-  background-image: url("https://i.pinimg.com/236x/6c/a5/84/6ca584a8e7fb399acc4ecb0a91cc56cb.jpg");
+  background-image: url("https://i.pinimg.com/736x/f3/dd/f5/f3ddf5fc0c081f34797876d77cef12ec.jpg");
   background-position: center center;
 }
 
@@ -61,7 +61,7 @@ img {
 
 p {
   font-family: 'Zeyada';
-  font-size: 50px;
+  font-size: 70px;
   color: rgb(242, 230, 230);
   opacity: 0.75;
   user-select: none;
